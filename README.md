@@ -1,2 +1,2 @@
-# keneges.uz
+# ITMarkaz
 Barchasi birinchi qadamdan boshlanadi
